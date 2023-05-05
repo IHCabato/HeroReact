@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HeroReact/static/css/main.15dd4ddf.css",
+    "main.js": "/HeroReact/static/js/main.68fd6d77.js",
+    "static/js/787.fe7e2d05.chunk.js": "/HeroReact/static/js/787.fe7e2d05.chunk.js",
+    "static/media/logo.svg": "/HeroReact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/HeroReact/index.html",
+    "main.15dd4ddf.css.map": "/HeroReact/static/css/main.15dd4ddf.css.map",
+    "main.68fd6d77.js.map": "/HeroReact/static/js/main.68fd6d77.js.map",
+    "787.fe7e2d05.chunk.js.map": "/HeroReact/static/js/787.fe7e2d05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15dd4ddf.css",
+    "static/js/main.68fd6d77.js"
+  ]
+}
